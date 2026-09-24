@@ -1,0 +1,96 @@
+{
+  "appName": "InstaFuse",
+  "latestVersion": "v5.4",
+  "changelog": [
+    {
+      "version": "v5.4",
+      "badge": "latest",
+      "base": "Base 439.0.0.38.89",
+      "changes": [
+        {
+          "badge": "new",
+          "text": "Custom Story Font · Image in comments"
+        },
+        {
+          "badge": "add",
+          "text": "Profile Post Download Button · Hidden features unlocked"
+        },
+        {
+          "badge": "add",
+          "text": "Quick toggle to enable or disable Read Messages by long-pressing the message icon"
+        },
+        {
+          "badge": "imp",
+          "text": "Redesigned Follow Indicator on profiles"
+        },
+        {
+          "badge": "imp",
+          "text": "New Follow Indicator UI in Followers and Following lists"
+        },
+        {
+          "badge": "fix",
+          "text": "Fixed AutoScroll, random crashes, and many other issues"
+        },
+        {
+          "badge": "fix",
+          "text": "Many more fixes and stability improvements"
+        }
+      ]
+    },
+    {
+      "version": "v5.3",
+      "badge": null,
+      "base": "Base 435.0.0.37.76",
+      "changes": [
+        {
+          "badge": "major",
+          "text": "Must uninstall your old InstaFuse before installing this update"
+        },
+        {
+          "badge": "new",
+          "text": "Updated Instagram base to v435.0.0.37.76 · Added all the latest Instagram features"
+        },
+        {
+          "badge": "add",
+          "text": "Follow indicator — see who follows you or not in following/followers list"
+        },
+        {
+          "badge": "add",
+          "text": "Personal Jinn in your inbox"
+        },
+        {
+          "badge": "add",
+          "text": "Voice Changer feature"
+        },
+        {
+          "badge": "add",
+          "text": "Download History"
+        },
+        {
+          "badge": "add",
+          "text": "More stylish fonts"
+        },
+        {
+          "badge": "fix",
+          "text": "Calling issues and the \"Unsupported Calling\" message"
+        },
+        {
+          "badge": "fix",
+          "text": "Reels video lag and stuttering"
+        },
+        {
+          "badge": "fix",
+          "text": "Dark overlay issues on some videos"
+        },
+        {
+          "badge": "imp",
+          "text": "Performance optimizations and stability improvements"
+        },
+        {
+          "badge": "fix",
+          "text": "Many bug fixes and overall enhancements"
+        }
+      ]
+    }
+  ]
+}
